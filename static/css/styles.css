@@ -1,0 +1,23 @@
+.card{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;      
+ }
+
+.mycolor{
+    background-color: rgb(197, 168, 255);
+}
+
+.mt-50{
+    margin-top: 50px;
+}
+
+
+
+#b1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+}
+
